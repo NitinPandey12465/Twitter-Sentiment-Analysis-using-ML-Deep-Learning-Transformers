@@ -1,4 +1,4 @@
-#  Multi-Model Twitter Sentiment Analysis using ML, DL & Transformers
+#  Binary Model Twitter Sentiment Analysis using ML, DL & Transformers
 
 ##  Project Overview
 
